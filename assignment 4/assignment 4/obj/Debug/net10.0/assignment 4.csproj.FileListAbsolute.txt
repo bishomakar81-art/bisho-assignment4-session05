@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.exe
+C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.deps.json
+C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.runtimeconfig.json
+C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.dll
+C:\Users\hp\source\repos\assignment 4\assignment 4\bin\Debug\net10.0\assignment 4.pdb
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.AssemblyInfo.cs
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.dll
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\refint\assignment 4.dll
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.pdb
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignment 4.genruntimeconfig.cache
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\ref\assignment 4.dll
+C:\Users\hp\source\repos\assignment 4\assignment 4\obj\Debug\net10.0\assignme.CB369D67.Up2Date
